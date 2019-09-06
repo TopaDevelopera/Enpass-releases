@@ -1,4 +1,4 @@
-# Epass release
+# Enpass release
 
 > If something happens to the official Enpass website, you can always download this program from GitHub and open your password database.
 

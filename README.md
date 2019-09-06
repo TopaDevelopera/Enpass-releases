@@ -1,5 +1,7 @@
 # Enpass release
 
+<center><img src="https://raw.githubusercontent.com/TopaDevelopera/Enpass-release/master/enpass_sidebar.png"></center>
+
 > If something happens to the official Enpass website, you can always download this program from GitHub and open your password database.
 
 ### Download Enpass 6 version:

@@ -1,4 +1,4 @@
-# Enpass release
+# Enpass releases
 
 <center><img src="https://raw.githubusercontent.com/TopaDevelopera/Enpass-release/master/enpass_sidebar.png"></center>
 
